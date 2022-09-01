@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi 👋 I'm @jugalpanchal
 
-- 🔭 I’m currently working on Data Engineering.
-- 🌱 I’m currently learning Big Data Technology Stack and Staff Engineering.
-- 💬 Ask me about Software Science, Software Engineering, Big Data, Backend Application, REST API, UI, Market
-- 📫 Reach me: jugalpanchal@gmail.com @jugalpanchal
-
-
+- 🔭 I’m currently working on Big Data Engineering and AWS Cloud.
+- 🌱 I’m currently learning Big Data, Data Science and Staff Level.
+- 👯 I’m looking to collaborate on Software Engineering and Big Data.
+- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API, UI, Market
+- 📫 Reach me:  
+        jugalpanchal@gmail.com    
+        @jugalpanchal         
+        https://linkedin.com/in/jugalpanchal      
+  
 <!--
 **jugalpanchal/jugalpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
