@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Engineering.
+- 🌱 I’m currently learning Big Data Technology Stack and Staff Engineering.
+- 💬 Ask me about Software Science, Software Engineering, Big Data, Backend Application, REST API, UI, Market
+- 📫 Reach me: jugalpanchal@gmail.com @jugalpanchal
+
+
 <!--
 **jugalpanchal/jugalpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on lead the team through technical requirements and challenges.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
