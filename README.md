@@ -1,14 +1,16 @@
 ### Hi 👋 I'm @jugalpanchal
 
-- 🔭 I’m currently working on Big Data Engineering and AWS Cloud.
-- 🌱 I’m currently learning Big Data, Data Science and Staff Level.
-- 👯 I’m looking to collaborate on Software Engineering and Big Data.
-- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API, UI, Market
+- 🔭 I’m currently working on Big Data Engineering tools and technologis with AWS Cloud.
+- 🌱 I’m currently learning Big Data, Data Science and Staff level skills.
+- 👯 I’m looking to collaborate on Software Engineering and Big Data project.
+- 🤔 I’m looking for help with Staff Software Engineer skills.
+- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API and Market.
 - 📫 Reach me:  
-        jugalpanchal@gmail.com    
-        @jugalpanchal         
-        https://linkedin.com/in/jugalpanchal      
-  
+     jugalpanchal@gmail.com    
+     @jugalpanchal         
+     https://linkedin.com/in/jugalpanchal      
+- ⚡ Fun fact: Either I'm doing coding or playing with my son. I'm lefty but trained myself to operate the mouse by right hand(a long childhood story), today a benefit when one hand gets tired. :)
+
 <!--
 **jugalpanchal/jugalpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
