@@ -4,12 +4,13 @@
 - 🌱 I’m currently learning Big Data, Data Science and Staff level skills.
 - 👯 I’m looking to collaborate on Software Engineering and Big Data project.
 - 🤔 I’m looking for help with Staff Software Engineer skills.
-- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API and Market.
+- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API, Market
 - 📫 Reach me:  
-     jugalpanchal@gmail.com    
      @jugalpanchal         
+     jugalpanchal@gmail.com    
      https://linkedin.com/in/jugalpanchal      
-- ⚡ Fun fact: Either I'm doing coding or playing with my son. I'm lefty but trained myself to operate the mouse by right hand(a long childhood story), today a benefit when one hand gets tired. :)
+- ⚡ Fun fact: Either I'm doing coding and learning technologies or playing with my son. I'm lefty but trained myself to operate the mouse by right hand(a long childhood story), today a benefit when one hand gets tired. :)
+
 
 <!--
 **jugalpanchal/jugalpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
