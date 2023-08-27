@@ -1,7 +1,7 @@
 ### Hi 👋 I'm @jugalpanchal
 
 - 💝 I am passionate about Computer Science, building and driving products.
-- 🔭 I’m currently working on Big Data Engineering tools and technologis with AWS Cloud.
+- 🔭 I’m currently working on Big Data Engineering technologis and tools with AWS Cloud.
 - 🌱 I’m currently learning Data Science and Staff level skills.
 - 👯 I’m looking to collaborate on Software Engineering and Big Data project.
 - 🤔 I’m looking for help with Staff Software Engineer skills.
