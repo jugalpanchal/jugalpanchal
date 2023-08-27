@@ -1,10 +1,11 @@
 ### Hi 👋 I'm @jugalpanchal
 
+- 💝 I am passionate about Computer Science, building and driving products.
 - 🔭 I’m currently working on Big Data Engineering tools and technologis with AWS Cloud.
-- 🌱 I’m currently learning Big Data, Data Science and Staff level skills.
+- 🌱 I’m currently learning Data Science and Staff level skills.
 - 👯 I’m looking to collaborate on Software Engineering and Big Data project.
 - 🤔 I’m looking for help with Staff Software Engineer skills.
-- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API, Market
+- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API, Market.
 - 📫 Reach me:  
      @jugalpanchal         
      jugalpanchal@gmail.com    
