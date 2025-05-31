@@ -1,16 +1,16 @@
 ### Hi 👋 I'm @jugalpanchal
 
-- 💝 I am passionate about Computer Science, building and driving products.
-- 🔭 I’m currently working on Big Data Engineering technologis and tools with AWS Cloud.
-- 🌱 I’m currently learning Data Science and Staff level skills.
-- 👯 I’m looking to collaborate on Software Engineering and Big Data project.
-- 🤔 I’m looking for help with Staff Software Engineer skills.
-- 💬 Ask me about Compute Science, Software Engineering, Big Data, Backend Application, REST API, Market.
+- 💝 Passionate about Computer Science, Programming, Driving and Building impactful products.
+- 🔭 Currently working on Big Data Engineering technologies and tools with AWS Cloud.
+- 🌱 Actively learning AI/ML and advancing Staff-Level engineering skills.
+- 🤝 Excited to collaborate on Software and Data Engineering projects, including Open-Source contributions.
+- 🤔 Seeking guidance on refining my expertise as a Staff Software/Data Engineer.
+- 💬 Ask me about Software/Data Technologies stack, AWS Cloud, Data Pipelines Design, System Design, DSA, SQL, Backend Applications, REST APIs, Market and Career Advice.
 - 📫 Reach me:  
      @jugalpanchal         
      jugalpanchal@gmail.com    
      https://linkedin.com/in/jugalpanchal      
-- ⚡ Fun fact: Either I'm doing coding and learning technologies or playing with my son. I'm lefty but trained myself to operate the mouse by right hand(a long childhood story), today a benefit when one hand gets tired. :)
+- ⚡ Fun fact: Either I'm doing coding and exploring new technologies or playing with my son. I'm naturally left-handed but trained myself to operate a mouse with my right-hand(a long childhood story), today a benefit when one hand gets tired. 😄
 
 
 <!--
